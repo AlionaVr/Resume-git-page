@@ -17,3 +17,4 @@ I am continuously learning and seeking opportunities to grow and contribute to m
 * Ability to work in a team, conflict management skills
 * Ability to work with a large amount of information
 * Desire to learn new methods of analysis and to develop own skills
+  remote_theme: pages-themes/cayman@v0.2.0
